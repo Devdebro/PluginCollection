@@ -1232,5 +1232,12 @@
         "jarName": "ChatFeelings.jar",
         "configName": "ChatFeelings",
         "freePlugin": true
+    },
+    {
+	    "name": "Spigot 1.12.2",
+        "desc": "Have more Plugins!",
+	"jarName": "spigot-1.12.2.jar",
+	"configName": "Spigot"
     }
+	    
 ]
